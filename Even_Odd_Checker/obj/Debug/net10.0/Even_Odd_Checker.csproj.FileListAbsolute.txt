@@ -1,0 +1,14 @@
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\net10.0\Even_Odd_Checker.exe
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\net10.0\Even_Odd_Checker.deps.json
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\net10.0\Even_Odd_Checker.runtimeconfig.json
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\net10.0\Even_Odd_Checker.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\bin\Debug\net10.0\Even_Odd_Checker.pdb
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.AssemblyInfoInputs.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.AssemblyInfo.cs
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.csproj.CoreCompileInputs.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\refint\Even_Odd_Checker.dll
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.pdb
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\Even_Odd_Checker.genruntimeconfig.cache
+C:\Users\Benedict Dagle\OneDrive\Documents\COMPROG\CSHARP\SimpleProjects\Even_Odd_Checker\Even_Odd_Checker\obj\Debug\net10.0\ref\Even_Odd_Checker.dll
